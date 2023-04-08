@@ -1,5 +1,9 @@
 /*
     write a menu driven program which has following options;
+    1 factorial
+    2 Prime number
+    3 Odd/even number
+    4 exit 
 */
 #include<stdio.h>
 #include<conio.h>
@@ -8,7 +12,7 @@ int main(){
     int choice,num,i,fact;
     while (1)
     {
-        printf("1.Factorial\n2.Prime\n3.Odd/Even\n4.Exit\nYour choice: ");
+        printf("1.Factorial\n2.Prime number\n3.Odd/Even number\n4.Exit\nYour choice: ");
         scanf("%d",&choice);
         switch (choice)
         {
