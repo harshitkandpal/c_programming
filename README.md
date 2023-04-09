@@ -5,4 +5,6 @@ Share this repo to your friends so that everyone can take advantage of this repo
 # Contribution
 Come up with great idea and you will have chance to become a contributer.
 Find anything not working or wrong contact me +91 9175691050 whatsapp only.
+# Disclaimer 
+The problems inside LetUsSee folder is taken from a book Let Us C by Yashavant Kanetkar 19th edition by BPB Publications
 
