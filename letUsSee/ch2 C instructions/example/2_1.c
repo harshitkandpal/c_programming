@@ -1,5 +1,5 @@
 /*
-    if length of three sides of tringle is input through keyboard, write a program to find area of the tringle.
+    if length of three sides of triangle is input through keyboard, write a program to find area of the triangle.
 */
 #include<stdio.h>
 #include<math.h>/*for sqrt()*/
